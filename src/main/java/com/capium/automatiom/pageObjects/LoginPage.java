@@ -9,7 +9,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.capium.automation.base.DriverEngine;
 
-
+//This class contains all elements and methods related to login page
 public class LoginPage extends DriverEngine{
 	
 	public LoginPage(WebDriver driver) {
