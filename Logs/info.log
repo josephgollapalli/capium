@@ -1,0 +1,947 @@
+2020-12-14 18:22:49,177 +0530 [main] INFO  (SeleniumReusablies.java:38) - User name entered
+2020-12-14 18:22:49,526 +0530 [main] INFO  (LoginPage.java:42) - User name entered
+2020-12-14 18:22:49,777 +0530 [main] INFO  (LoginPage.java:58) - Password entered
+2020-12-14 18:22:49,911 +0530 [main] INFO  (LoginPage.java:73) - SignIn button clicked
+2020-12-14 18:22:50,597 +0530 [main] INFO  (LoginPage.java:109) - Able to login with invalid details invalid selector: The result of the xpath expression "//*[@id='ErrSignIn']/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 669 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '172.16.110.159', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60741}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17936_996806701}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 9e0eeb31d610fec96ac6404f44162fa4
+*** Element info: {Using=xpath, value=//*[@id='ErrSignIn']/div/text()}
+2020-12-14 18:23:04,726 +0530 [main] INFO  (LoginPage.java:42) - User name entered
+2020-12-14 18:23:04,979 +0530 [main] INFO  (LoginPage.java:58) - Password entered
+2020-12-14 18:23:05,241 +0530 [main] INFO  (LoginPage.java:73) - SignIn button clicked
+2020-12-14 18:24:14,894 +0530 [main] INFO  (LoginPage.java:88) - Logged in successfully
+2020-12-14 18:24:30,805 +0530 [main] INFO  (RunnerClass.java:74) - We are in PM module
+2020-12-14 18:24:54,185 +0530 [main] INFO  (Workspace_ClientsPage.java:88) - Clicked on Workspace link
+2020-12-14 18:24:54,186 +0530 [main] INFO  (RunnerClass.java:117) - Clicked on Workspace tab
+2020-12-14 18:24:59,087 +0530 [main] INFO  (Workspace_ClientsPage.java:106) - Clicked on Clients link
+2020-12-14 18:24:59,088 +0530 [main] INFO  (RunnerClass.java:119) - Clicked on Clients link
+2020-12-14 18:25:02,375 +0530 [main] INFO  (Workspace_ClientsPage.java:123) - Clicked on Clients link
+2020-12-14 18:25:02,376 +0530 [main] INFO  (RunnerClass.java:121) - Clicked on New Client button
+2020-12-14 18:25:06,149 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field ClientID
+2020-12-14 18:25:06,151 +0530 [main] INFO  (RunnerClass.java:123) - Entered Client ID
+2020-12-14 18:25:09,189 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field Client Name
+2020-12-14 18:25:09,190 +0530 [main] INFO  (RunnerClass.java:125) - Entered Client Name
+2020-12-14 18:25:15,580 +0530 [main] INFO  (RunnerClass.java:127) - Selected Client Type
+2020-12-14 18:25:18,566 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field RegistrationNumber
+2020-12-14 18:25:18,567 +0530 [main] INFO  (RunnerClass.java:129) - Entered Registration Number
+2020-12-14 18:25:22,464 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field Client EmailID
+2020-12-14 18:25:22,466 +0530 [main] INFO  (RunnerClass.java:131) - Entered Client Email ID
+2020-12-14 18:25:25,682 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field Client Phone Number
+2020-12-14 18:25:25,684 +0530 [main] INFO  (RunnerClass.java:133) - Entered Client Phone Number
+2020-12-14 18:25:28,879 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field Contact Name
+2020-12-14 18:25:28,880 +0530 [main] INFO  (RunnerClass.java:135) - Entered Contact Name
+2020-12-14 18:25:32,692 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field Contact EmailID
+2020-12-14 18:25:35,787 +0530 [main] INFO  (SeleniumReusablies.java:88) - Entered data in field Contact Phone Number
+2020-12-17 14:12:29,876 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-17 14:12:30,675 +0530 [main] INFO  (LoginPage.java:42) - User name entered
+2020-12-17 14:12:31,228 +0530 [main] INFO  (LoginPage.java:58) - Password entered
+2020-12-17 14:12:31,425 +0530 [main] INFO  (LoginPage.java:73) - SignIn button clicked
+2020-12-17 14:12:31,844 +0530 [main] INFO  (LoginPage.java:109) - Able to login with invalid details invalid selector: The result of the xpath expression "//*[@id='ErrSignIn']/div/text()" is: [object Text]. It should be an element.
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 382 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:59578}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17836_1193139035}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 141f0c2ace1c0a23591861a21cf8d332
+*** Element info: {Using=xpath, value=//*[@id='ErrSignIn']/div/text()}
+2020-12-17 14:12:34,658 +0530 [main] INFO  (LoginPage.java:42) - User name entered
+2020-12-17 14:12:34,822 +0530 [main] INFO  (LoginPage.java:58) - Password entered
+2020-12-17 14:12:34,916 +0530 [main] INFO  (LoginPage.java:73) - SignIn button clicked
+2020-12-17 14:14:17,552 +0530 [main] INFO  (LoginPage.java:88) - Logged in successfully
+2020-12-17 14:14:33,225 +0530 [main] INFO  (RunnerClass.java:74) - We are in PM module
+2020-12-17 14:14:56,349 +0530 [main] INFO  (Workspace_ClientsPage.java:91) - Clicked on Workspace link
+2020-12-17 14:15:01,993 +0530 [main] INFO  (Workspace_ClientsPage.java:109) - Clicked on Clients link
+2020-12-17 14:15:04,974 +0530 [main] INFO  (Workspace_ClientsPage.java:126) - Clicked on Clients link
+2020-12-17 14:15:09,365 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field ClientID
+2020-12-17 14:15:13,166 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field Client Name
+2020-12-17 14:15:17,029 +0530 [main] INFO  (SeleniumReusablies.java:100) - Clicked on dropdown Client Type
+2020-12-17 14:15:19,662 +0530 [main] INFO  (SeleniumReusablies.java:106) - Selected the dropdown value Limited
+2020-12-17 14:15:24,957 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field RegistrationNumber
+2020-12-17 14:15:29,102 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field Client EmailID
+2020-12-17 14:15:32,958 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field Client Phone Number
+2020-12-17 14:15:36,502 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field Contact Name
+2020-12-17 14:15:41,123 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field Contact EmailID
+2020-12-17 14:15:45,381 +0530 [main] INFO  (SeleniumReusablies.java:89) - Entered data in field Contact Phone Number
+2020-12-18 15:21:36,104 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-18 15:21:36,773 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-18 15:21:37,007 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-18 15:21:37,170 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-18 15:21:38,387 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-18 15:21:38,576 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-18 15:21:38,701 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-18 15:24:08,302 +0530 [main] INFO  (LoginPage.java:93) - Unable to validate Login no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='appskin']//a[contains(@class,'navbar-brand')]"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 137.57 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49490}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17884_30176732}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 4d4a023cb08359cf881b872508ed18aa
+*** Element info: {Using=xpath, value=//*[@id='appskin']//a[contains(@class,'navbar-brand')]}
+2020-12-18 15:25:56,915 +0530 [main] INFO  (RunnerClass.java:74) - We are in PM module
+2020-12-18 15:27:57,105 +0530 [main] INFO  (Workspace_ClientsPage.java:95) - Unable to click on Workspace link no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='collapsibleNavbar']//a[text()='Workspace']"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49490}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17884_30176732}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 4d4a023cb08359cf881b872508ed18aa
+*** Element info: {Using=xpath, value=//div[@id='collapsibleNavbar']//a[text()='Workspace']}
+2020-12-18 15:29:37,642 +0530 [main] INFO  (Workspace_ClientsPage.java:112) - Unable to click on Clients linkno such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='collapsibleNavbar']/ul/li/ul/li/a[text()='Clients']"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49490}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17884_30176732}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 4d4a023cb08359cf881b872508ed18aa
+*** Element info: {Using=xpath, value=//div[@id='collapsibleNavbar']/ul/li/ul/li/a[text()='Clients']}
+2020-12-18 15:31:18,126 +0530 [main] INFO  (Workspace_ClientsPage.java:130) - Unable to click on NewClient buttonno such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='clientsList']//button[text()='NEW CLIENT']"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49490}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17884_30176732}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 4d4a023cb08359cf881b872508ed18aa
+*** Element info: {Using=xpath, value=//div[@id='clientsList']//button[text()='NEW CLIENT']}
+2020-12-18 15:32:18,320 +0530 [main] INFO  (RunnerClass.java:146) - timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.19 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:49490}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17884_30176732}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 4d4a023cb08359cf881b872508ed18aa
+2020-12-18 21:43:18,335 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-18 21:43:18,751 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-18 21:43:18,962 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-18 21:43:19,140 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-18 21:43:20,518 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-18 21:43:20,789 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-18 21:43:20,929 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-18 21:45:20,431 +0530 [main] INFO  (LoginPage.java:93) - Unable to validate Login no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='appskin']//a[contains(@class,'navbar-brand')]"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 107.48 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53832}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir16108_1049180224}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 8f8d9e620c9d7f245530407147038d96
+*** Element info: {Using=xpath, value=//*[@id='appskin']//a[contains(@class,'navbar-brand')]}
+2020-12-18 21:47:08,927 +0530 [main] INFO  (RunnerClass.java:74) - We are in PM module
+2020-12-18 21:49:09,142 +0530 [main] INFO  (Workspace_ClientsPage.java:95) - Unable to click on Workspace link no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='collapsibleNavbar']//a[text()='Workspace']"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53832}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir16108_1049180224}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 8f8d9e620c9d7f245530407147038d96
+*** Element info: {Using=xpath, value=//div[@id='collapsibleNavbar']//a[text()='Workspace']}
+2020-12-18 21:50:09,196 +0530 [main] INFO  (RunnerClass.java:146) - timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.04 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.213', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53832}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir16108_1049180224}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 8f8d9e620c9d7f245530407147038d96
+2020-12-22 13:50:02,984 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 13:50:04,903 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 13:50:05,150 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 13:50:05,473 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 13:50:07,641 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 13:50:07,869 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 13:50:08,027 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 13:50:47,166 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 13:50:55,380 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 13:51:04,639 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 13:51:28,094 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 13:51:32,134 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 13:51:33,792 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 13:51:34,447 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 13:51:35,170 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 13:51:36,902 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 13:51:38,273 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 13:51:39,140 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 13:51:39,956 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 13:51:40,587 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 13:51:41,134 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 13:51:42,010 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 13:51:42,929 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 13:51:44,313 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element element click intercepted: Element <button _ngcontent-gfy-c13="" class="btn btn-md post-btn" type="submit">...</button> is not clickable at point (666, 597). Other element would receive the click: <div _ngcontent-gfy-c13="" class="col-xl-8 col-lg-6 col-md-6 text-xl-right text-lg-right text-md-right text-sm-left text-left mt-2">...</div>
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.18 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:61187}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir4744_368197138}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 77c93409c26d60b1153445210e0efbdc
+2020-12-22 14:00:03,350 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:00:03,643 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:00:03,828 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:00:03,960 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:00:04,933 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:00:05,101 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:00:05,196 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:00:30,585 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:00:38,781 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:00:46,482 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:01:09,638 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:01:13,401 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:01:14,718 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:01:15,303 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:01:15,957 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:01:17,355 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:01:18,550 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:01:19,157 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:01:19,813 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:01:20,353 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:01:20,830 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:01:21,479 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:01:21,978 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:01:22,035 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 38 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:61493}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17404_327101837}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: e75d1d787ec5a13635df0f74006828a6
+*** Element info: {Using=css selector, value=#contactInfo > div > div > div.modal-body.client-page > form > div.text-center.mb-4 > button[text()=' Save ']}
+2020-12-22 14:12:33,192 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:12:33,576 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:12:33,802 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:12:34,064 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:12:35,564 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:12:35,787 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:12:35,900 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:12:52,267 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:13:00,527 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:13:08,515 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:13:31,571 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:13:33,487 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:13:34,196 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:13:34,691 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:13:36,110 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:13:37,290 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:13:38,001 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:13:38,635 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:13:39,149 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:13:39,603 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:13:41,275 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:13:41,792 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:13:41,995 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 136 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57316}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir4400_227195731}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 260260a9fb78a3a1fa6dab4a45523784
+*** Element info: {Using=css selector, value=#contactInfo > div > div > div.modal-body.client-page > form > div.text-center.mb-4 > button[text()=' Save ']}
+2020-12-22 14:23:54,811 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:23:55,210 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:23:55,614 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:23:55,766 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:23:57,017 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:23:57,176 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:23:57,281 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:24:15,948 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:24:24,141 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:24:31,486 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:24:54,343 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:24:57,963 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:24:59,208 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:24:59,723 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:25:00,204 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:25:01,462 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:25:02,621 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:25:03,271 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:25:03,906 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:25:04,426 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:25:04,927 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:25:06,596 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:25:07,064 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:25:08,332 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element element click intercepted: Element <button _ngcontent-tgl-c13="" class="btn btn-md post-btn" type="submit">...</button> is not clickable at point (666, 597). Other element would receive the click: <div _ngcontent-tgl-c13="" class="col-xl-8 col-lg-6 col-md-6 text-xl-right text-lg-right text-md-right text-sm-left text-left mt-2">...</div>
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.12 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57609}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir17100_1427945339}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 510f285d40d80990945c971acc0bd3c8
+2020-12-22 14:25:57,987 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:25:58,280 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:25:58,482 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:25:58,623 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:25:59,701 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:25:59,929 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:26:00,053 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:26:43,303 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:26:51,568 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:26:58,221 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:27:21,117 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:27:24,679 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:27:25,943 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:27:26,282 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:27:26,769 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:27:28,080 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:27:29,358 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:27:30,010 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:27:30,660 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:27:31,214 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:27:31,665 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:27:33,316 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:27:33,724 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:27:35,020 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element element click intercepted: Element <button _ngcontent-cma-c13="" class="btn btn-md post-btn" type="submit">...</button> is not clickable at point (666, 597). Other element would receive the click: <div _ngcontent-cma-c13="" class="col-xl-8 col-lg-6 col-md-6 text-xl-right text-lg-right text-md-right text-sm-left text-left mt-2">...</div>
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.12 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57739}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir14196_1327749701}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 0b53af3c359ff14d39388a4ada2b1229
+2020-12-22 14:29:21,837 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:29:22,102 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:29:22,303 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:29:22,443 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:29:23,567 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:29:23,757 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:29:23,854 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:29:48,625 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:29:56,880 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:30:04,449 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:30:27,599 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:30:31,232 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:30:32,557 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:30:33,124 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:30:33,543 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:30:34,921 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:30:36,142 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:30:36,771 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:30:37,448 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:30:38,004 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:30:38,525 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:30:39,166 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:30:39,665 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:30:41,933 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element element click intercepted: Element <button _ngcontent-exp-c13="" class="btn btn-md post-btn" type="submit">...</button> is not clickable at point (666, 597). Other element would receive the click: <div _ngcontent-exp-c13="" class="col-xl-8 col-lg-6 col-md-6 text-xl-right text-lg-right text-md-right text-sm-left text-left mt-2">...</div>
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.09 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:57884}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir11992_169556333}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 225ca9244cbb5b0fc3c6ce9792f8bb92
+2020-12-22 14:33:49,309 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:33:49,632 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:33:49,845 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:33:49,997 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:33:51,207 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:33:51,480 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:33:51,620 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:35:16,076 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:35:24,250 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:35:31,627 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:35:54,890 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:35:58,733 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:36:00,088 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:36:00,554 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:36:01,428 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:36:02,692 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:36:03,854 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:36:04,512 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:36:05,268 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:36:05,747 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:36:06,240 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:36:06,889 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:36:07,410 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:36:08,478 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58068}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir7064_191103390}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: a958ca4ee2b779853f1c2d24fc16c7a0
+*** Element info: {Using=css selector, value=//button[text()=' Save ']}
+2020-12-22 14:42:51,331 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:42:51,596 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:42:51,848 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:42:52,024 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:42:53,403 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:42:53,657 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:42:53,787 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:43:59,526 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:44:07,788 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:44:14,747 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:44:37,899 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:44:41,789 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:44:43,102 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:44:43,803 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:44:44,390 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:44:45,659 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:44:46,822 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:44:47,494 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:44:48,133 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:44:48,663 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:44:49,226 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:44:49,949 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:44:50,406 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:44:52,467 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 38 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58375}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir3276_1993926264}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: ec30577a83c7b78def61a8c066eca217
+*** Element info: {Using=css selector, value=//button[text()=' Save ']}
+2020-12-22 14:47:19,338 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:47:19,702 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:47:19,939 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:47:20,080 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:47:21,038 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:47:21,317 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:47:21,525 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:47:34,424 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:47:42,617 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:47:50,015 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:48:13,166 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:48:16,928 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:48:18,256 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:48:18,844 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:48:19,304 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:48:20,721 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:48:21,912 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:48:22,632 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:48:23,280 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:48:23,820 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:48:24,299 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:48:24,952 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:48:41,518 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:49:23,154 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 98 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58504}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir16552_1774815683}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 3c1d7e7052f1ae9bb5b7bf7fc5144335
+*** Element info: {Using=css selector, value=//button[text()=' Save ']}
+2020-12-22 14:52:15,976 +0530 [main] INFO  (RunnerClass.java:146) - timeout: Timed out receiving message from renderer: 10.000
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 60.07 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58504}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir16552_1774815683}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 3c1d7e7052f1ae9bb5b7bf7fc5144335
+2020-12-22 14:53:49,708 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 14:53:49,963 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:53:50,155 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:53:50,302 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:53:52,218 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 14:53:52,402 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 14:53:52,511 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 14:54:16,170 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 14:54:24,449 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 14:54:34,028 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 14:54:57,292 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 14:55:01,031 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 14:55:02,452 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 14:55:03,023 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 14:55:03,671 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 14:55:04,940 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 14:55:06,113 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 14:55:06,806 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 14:55:07,475 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 14:55:08,016 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 14:55:08,506 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 14:55:09,173 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 14:55:09,698 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 14:55:11,955 +0530 [main] INFO  (SeleniumReusablies.java:138) - Unable to click on element element click intercepted: Element <button _ngcontent-lyk-c13="" class="btn btn-md post-btn" type="submit">...</button> is not clickable at point (666, 597). Other element would receive the click: <div _ngcontent-lyk-c13="" class="col-xl-8 col-lg-6 col-md-6 text-xl-right text-lg-right text-md-right text-sm-left text-left mt-2">...</div>
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.12 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58631}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir14596_254697720}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 9c9e9bb210d8abb09b3104b3cfa66acf
+2020-12-22 15:01:34,574 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:01:34,857 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:01:35,088 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:01:35,270 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:01:36,248 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:01:36,455 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:01:36,577 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:01:55,390 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:03:45,296 +0530 [main] INFO  (Workspace_ClientsPage.java:91) - Unable to click on Workspace link no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='collapsibleNavbar']//a[text()='Workspace']"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58833}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir12508_1941343967}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 6ebfa516e6eaa435b0566b8cdbe74d1b
+*** Element info: {Using=xpath, value=//div[@id='collapsibleNavbar']//a[text()='Workspace']}
+2020-12-22 15:05:25,687 +0530 [main] INFO  (Workspace_ClientsPage.java:125) - Unable to click on NewClient buttonno such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='clientsList']//button[text()='NEW CLIENT']"}
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 100.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:58833}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir12508_1941343967}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 6ebfa516e6eaa435b0566b8cdbe74d1b
+*** Element info: {Using=xpath, value=//div[@id='clientsList']//button[text()='NEW CLIENT']}
+2020-12-22 15:07:09,066 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:07:09,330 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:07:09,556 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:07:09,689 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:07:10,830 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:07:11,086 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:07:11,193 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:07:31,447 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:07:39,663 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:07:49,370 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:08:12,372 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:08:16,069 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:08:17,397 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:08:17,892 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:08:18,327 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:08:19,716 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:08:21,071 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:08:21,803 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:08:22,430 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:08:23,004 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:08:23,534 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:08:24,328 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:08:24,789 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:08:28,940 +0530 [main] INFO  (SeleniumReusablies.java:270) - Clicked on field Save Button
+2020-12-22 15:15:29,623 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:15:29,971 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:15:30,210 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:15:30,355 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:15:31,472 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:15:31,724 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:15:31,858 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:16:02,592 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:16:10,827 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:16:20,854 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:16:44,125 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:16:48,014 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:16:49,263 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:16:49,703 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:16:50,128 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:16:51,565 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:16:52,717 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:16:53,435 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:16:54,127 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:16:54,656 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:16:55,127 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:16:55,857 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:16:56,406 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:17:00,465 +0530 [main] INFO  (SeleniumReusablies.java:270) - Clicked on field Save Button
+2020-12-22 15:21:34,073 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:21:34,363 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:21:34,624 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:21:34,810 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:21:35,918 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:21:36,108 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:21:36,302 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:22:00,502 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:22:08,686 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:22:19,060 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:22:42,511 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:22:46,845 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:22:48,600 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:22:49,314 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:22:49,982 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:22:51,332 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:22:52,652 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:22:53,570 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:22:54,309 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:22:54,845 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:22:55,339 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:22:55,993 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:22:56,490 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:23:00,691 +0530 [main] INFO  (SeleniumReusablies.java:270) - Clicked on field Save Button
+2020-12-22 15:24:02,104 +0530 [main] INFO  (SeleniumReusablies.java:166) - WebElement text matched with CID0046 at Client ID field
+2020-12-22 15:30:13,615 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:30:14,006 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:30:14,207 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:30:14,358 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:30:15,654 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:30:15,883 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:30:16,005 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:30:34,273 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:30:42,494 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:30:53,110 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:31:16,425 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:31:20,209 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:31:21,504 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:31:22,043 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:31:22,682 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:31:24,072 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:31:25,256 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:31:25,951 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:31:26,727 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:31:27,293 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:31:27,786 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:31:28,552 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:31:29,277 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:31:33,414 +0530 [main] INFO  (SeleniumReusablies.java:270) - Clicked on field Save Button
+2020-12-22 15:37:27,865 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:37:28,163 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:37:28,379 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:37:28,507 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:37:29,824 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:37:30,043 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:37:30,147 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:37:43,972 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:37:52,175 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:38:02,403 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:38:25,326 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:38:29,067 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:38:30,347 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:38:30,979 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:38:31,611 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:38:33,027 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:38:34,193 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:38:34,897 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:38:35,635 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:38:36,209 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:38:36,790 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:38:37,582 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:38:38,065 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:38:42,282 +0530 [main] INFO  (SeleniumReusablies.java:263) - Clicked on field Save Button
+2020-12-22 15:44:17,311 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:44:17,681 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:44:17,997 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:44:18,140 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:44:19,167 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:44:19,368 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:44:19,492 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:44:34,828 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:44:43,051 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:44:52,866 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:45:16,655 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:45:20,785 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:45:22,061 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:45:22,562 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:45:23,152 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:45:24,468 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:45:25,760 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:45:26,406 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:45:27,100 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:45:27,581 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:45:28,040 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:45:28,679 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:45:29,231 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:45:33,362 +0530 [main] INFO  (SeleniumReusablies.java:262) - Clicked on field Save Button
+2020-12-22 15:52:23,356 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 15:52:23,628 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:52:23,858 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:52:24,004 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:52:24,965 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 15:52:25,196 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 15:52:25,375 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 15:53:15,835 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 15:53:24,062 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 15:53:36,096 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 15:54:00,365 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 15:54:05,200 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 15:54:06,633 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 15:54:07,181 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 15:54:07,937 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 15:54:09,300 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 15:54:10,500 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 15:54:11,025 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 15:54:11,833 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 15:54:12,465 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 15:54:13,009 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 15:54:13,775 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 15:54:14,228 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 15:54:18,432 +0530 [main] INFO  (SeleniumReusablies.java:261) - Clicked on field Save Button
+2020-12-22 15:54:44,965 +0530 [main] INFO  (SeleniumReusablies.java:165) - WebElement text matched with CID0050 at Client ID field
+2020-12-22 16:13:18,229 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:13:18,631 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:13:18,824 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:13:18,992 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:13:20,072 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:13:20,256 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:13:20,387 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:14:09,775 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:14:18,009 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:14:28,573 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:14:51,944 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:14:56,282 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:14:57,553 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:14:57,991 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 16:14:58,588 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 16:14:59,939 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 16:15:01,211 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 16:15:01,900 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 16:15:02,637 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 16:15:03,172 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 16:15:03,625 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 16:15:04,254 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 16:15:04,777 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 16:15:08,856 +0530 [main] INFO  (SeleniumReusablies.java:261) - Clicked on field Save Button
+2020-12-22 16:17:47,914 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:17:48,375 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:17:48,596 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:17:48,746 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:17:50,228 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:17:50,453 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:17:50,581 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:18:02,716 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:18:10,947 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:18:21,436 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:18:44,708 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:18:48,425 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:18:49,798 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:18:50,421 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 16:18:51,161 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 16:18:52,474 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 16:18:53,644 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 16:18:54,397 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 16:18:55,369 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 16:18:55,930 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 16:18:56,457 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 16:18:57,261 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 16:18:57,763 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 16:22:11,751 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:22:12,060 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:22:12,412 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:22:12,536 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:22:13,452 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:22:13,720 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:22:13,829 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:22:28,183 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:22:36,439 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:22:46,467 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:23:09,747 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:23:13,689 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:23:14,915 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:28:58,670 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:28:59,079 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:28:59,304 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:28:59,483 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:29:00,680 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:29:00,884 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:29:01,004 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:29:22,871 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:29:31,094 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:29:41,676 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:30:04,937 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:30:08,653 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:30:09,919 +0530 [main] INFO  (Workspace_ClientsPage.java:125) - Unable to click on NewClient buttonelement click intercepted: Element <button _ngcontent-tkf-c13="" class="btn btn-primary btn-md">...</button> is not clickable at point (1266, 237). Other element would receive the click: <div _ngcontent-tkf-c13="" class="my-container loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+  (Driver info: chromedriver=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}),platform=Windows NT 10.0.18363 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.07 seconds
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'DESKTOP-ABNUCIB', ip: '192.168.225.22', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, timeouts={implicit=0, pageLoad=300000, script=30000}, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:60349}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=ignore, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=87.0.4280.20 (c99e81631faa0b2a448e658c0dbd8311fb04ddbd-refs/branch-heads/4280@{#355}), userDataDir=C:\Users\BIGBRO~1\AppData\Local\Temp\scoped_dir11284_1460739096}, takesHeapSnapshot=true, pageLoadStrategy=normal, strictFileInteractability=false, databaseEnabled=false, handlesAlerts=true, version=87.0.4280.88, browserConnectionEnabled=false, proxy={}, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true, webauthn:virtualAuthenticators=true}]
+Session ID: 8a4c601cae396f488d651f44f339f36d
+2020-12-22 16:32:12,316 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:32:12,630 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:32:12,823 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:32:12,976 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:32:14,022 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:32:14,226 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:32:14,388 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:32:57,907 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:33:06,229 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:33:16,643 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:33:39,809 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:33:44,088 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:33:45,359 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:33:45,826 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 16:33:46,308 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 16:33:47,703 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 16:33:48,866 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 16:33:49,614 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 16:33:50,272 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 16:33:50,796 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 16:33:51,228 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 16:33:51,829 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 16:33:52,255 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 16:35:00,217 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:35:00,495 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:35:00,704 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:35:00,839 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:35:01,892 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:35:02,151 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:35:02,255 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:35:48,449 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:35:56,700 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:36:06,660 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:36:29,869 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:36:33,698 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:36:34,951 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:46:08,742 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:46:09,087 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:46:09,342 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:46:09,527 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:46:10,832 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:46:11,068 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:46:11,206 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:46:24,910 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:46:33,182 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:46:47,022 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:47:10,252 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:47:14,183 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:47:15,544 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:47:16,043 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 16:47:16,626 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 16:47:17,964 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 16:47:19,221 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 16:47:19,971 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 16:47:20,972 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 16:47:21,463 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 16:47:21,941 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 16:47:22,623 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 16:47:23,124 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 16:48:13,625 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:48:14,023 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:48:14,227 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:48:14,395 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:48:15,477 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:48:15,679 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:48:15,801 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:48:35,909 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:48:44,196 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:48:54,656 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:49:17,496 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:49:21,234 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:49:22,517 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:49:23,000 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 16:49:23,591 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 16:49:25,079 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 16:49:26,318 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 16:49:26,957 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 16:49:27,733 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 16:49:28,297 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 16:49:28,773 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 16:49:29,447 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 16:49:29,992 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 16:52:42,130 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 16:52:42,514 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:52:42,788 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:52:42,956 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:52:44,262 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 16:52:44,461 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 16:52:44,602 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 16:53:42,999 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 16:53:51,248 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 16:54:01,032 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 16:54:24,231 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 16:54:27,877 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 16:54:29,249 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 16:54:29,698 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 16:54:30,434 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 16:54:31,795 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 16:54:32,986 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 16:54:33,832 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 16:54:34,595 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 16:54:35,105 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 16:54:35,561 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 16:54:36,226 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 16:54:36,729 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 16:56:14,111 +0530 [main] INFO  (SeleniumReusablies.java:260) - Clicked on field Save Button
+2020-12-22 17:10:03,258 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 17:10:03,592 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 17:10:03,808 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 17:10:03,989 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 17:10:05,032 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 17:10:05,251 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 17:10:05,390 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 17:10:17,532 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 17:10:25,769 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 17:10:36,171 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 17:10:59,291 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 17:11:03,059 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 17:11:04,357 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 17:11:04,917 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 17:11:05,614 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 17:11:07,175 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 17:11:08,359 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 17:11:09,048 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 17:11:09,941 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 17:11:10,466 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 17:11:11,048 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 17:11:11,813 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 17:11:12,287 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 17:11:19,770 +0530 [main] INFO  (SeleniumReusablies.java:266) - Unable to click on element null
+2020-12-22 17:21:08,516 +0530 [main] INFO  (SeleniumReusablies.java:37) - User name entered
+2020-12-22 17:21:08,878 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 17:21:09,095 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 17:21:09,232 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 17:21:10,216 +0530 [main] INFO  (LoginPage.java:43) - User name entered
+2020-12-22 17:21:10,413 +0530 [main] INFO  (LoginPage.java:59) - Password entered
+2020-12-22 17:21:10,516 +0530 [main] INFO  (LoginPage.java:74) - SignIn button clicked
+2020-12-22 17:21:39,654 +0530 [main] INFO  (LoginPage.java:89) - Logged in successfully
+2020-12-22 17:21:47,912 +0530 [main] INFO  (CommonClass.java:34) - Clicked on CapiumIcon
+2020-12-22 17:21:57,937 +0530 [main] INFO  (CommonClass.java:43) - We are in PM module
+2020-12-22 17:22:21,104 +0530 [main] INFO  (Workspace_ClientsPage.java:87) - Clicked on Workspace link
+2020-12-22 17:22:25,010 +0530 [main] INFO  (Workspace_ClientsPage.java:105) - Clicked on Clients link
+2020-12-22 17:22:26,340 +0530 [main] INFO  (Workspace_ClientsPage.java:122) - Clicked on Clients link
+2020-12-22 17:22:26,991 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field ClientID
+2020-12-22 17:22:27,565 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Name
+2020-12-22 17:22:28,903 +0530 [main] INFO  (SeleniumReusablies.java:109) - Clicked on dropdown Client Type
+2020-12-22 17:22:30,054 +0530 [main] INFO  (SeleniumReusablies.java:115) - Selected the dropdown value Limited
+2020-12-22 17:22:30,756 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field RegistrationNumber
+2020-12-22 17:22:31,510 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client EmailID
+2020-12-22 17:22:32,033 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Client Phone Number
+2020-12-22 17:22:32,508 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Name
+2020-12-22 17:22:33,186 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact EmailID
+2020-12-22 17:22:33,665 +0530 [main] INFO  (SeleniumReusablies.java:90) - Entered data in field Contact Phone Number
+2020-12-22 17:22:34,795 +0530 [main] INFO  (SeleniumReusablies.java:266) - Unable to click on element Save Button null

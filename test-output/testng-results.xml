@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-22T17:20:56 IST" name="Suite" finished-at="2020-12-22T17:22:55 IST" duration-ms="119126">
+    <groups>
+    </groups>
+    <test started-at="2020-12-22T17:20:56 IST" name="Test" finished-at="2020-12-22T17:22:55 IST" duration-ms="119126">
+      <class name="com.capium.automation.businessScript.RunnerClass">
+        <test-method is-config="true" signature="openBrowser(java.lang.String)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:20:49 IST" name="openBrowser" finished-at="2020-12-22T17:20:56 IST" duration-ms="6610" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="printMathodName(java.lang.reflect.Method)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:20:56 IST" name="printMathodName" finished-at="2020-12-22T17:20:56 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capium.automation.businessScript.RunnerClass.login_InvalidDetails(java.lang.reflect.Method) throws java.io.IOException,java.net.SocketException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMathodName -->
+        <test-method signature="login_InvalidDetails(java.lang.reflect.Method)[pri:1, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:20:56 IST" name="login_InvalidDetails" finished-at="2020-12-22T17:21:09 IST" duration-ms="13786" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capium.automation.businessScript.RunnerClass.login_InvalidDetails(java.lang.reflect.Method) throws java.io.IOException,java.net.SocketException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_InvalidDetails -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:21:09 IST" name="AfterMethod" finished-at="2020-12-22T17:21:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_InvalidDetails status=SUCCESS method=RunnerClass.login_InvalidDetails(java.lang.reflect.Method)[pri:1, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="printMathodName(java.lang.reflect.Method)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:21:09 IST" name="printMathodName" finished-at="2020-12-22T17:21:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capium.automation.businessScript.RunnerClass.login_ValidDetails(java.lang.reflect.Method) throws java.io.IOException,java.net.SocketException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMathodName -->
+        <test-method signature="login_ValidDetails(java.lang.reflect.Method)[pri:2, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:21:09 IST" name="login_ValidDetails" finished-at="2020-12-22T17:22:18 IST" duration-ms="68028" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capium.automation.businessScript.RunnerClass.login_ValidDetails(java.lang.reflect.Method) throws java.io.IOException,java.net.SocketException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_ValidDetails -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:22:18 IST" name="AfterMethod" finished-at="2020-12-22T17:22:18 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=login_ValidDetails status=SUCCESS method=RunnerClass.login_ValidDetails(java.lang.reflect.Method)[pri:2, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="printMathodName(java.lang.reflect.Method)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:22:18 IST" name="printMathodName" finished-at="2020-12-22T17:22:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capium.automation.businessScript.RunnerClass.CreateNewClient(java.lang.reflect.Method) throws java.io.IOException,java.net.SocketException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMathodName -->
+        <test-method signature="CreateNewClient(java.lang.reflect.Method)[pri:4, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:22:18 IST" name="CreateNewClient" finished-at="2020-12-22T17:22:55 IST" duration-ms="37232" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.capium.automation.businessScript.RunnerClass.CreateNewClient(java.lang.reflect.Method) throws java.io.IOException,java.net.SocketException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateNewClient -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:22:55 IST" name="AfterMethod" finished-at="2020-12-22T17:22:55 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CreateNewClient status=SUCCESS method=RunnerClass.CreateNewClient(java.lang.reflect.Method)[pri:4, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.capium.automation.businessScript.RunnerClass@2cd2a21f]" started-at="2020-12-22T17:22:55 IST" name="closeBrowser" finished-at="2020-12-22T17:22:56 IST" duration-ms="1161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.capium.automation.businessScript.RunnerClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
